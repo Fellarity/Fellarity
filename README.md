@@ -1,6 +1,10 @@
 # 👋 Hey there, I'm Ashutosh Gopale! (a.k.a. Fellarity)
 
+![Views](https://komarev.com/ghpvc/?username=Fellarity&color=blueviolet)
+
 ### 🚀 Software Developer | Problem Solver | Hackathon Enthusiast
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=Fellarity&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm a passionate developer who loves building things that make life easier. Whether it's a trading platform, a study companion, or an internship matchmaker, I'm always up for a challenge.
 
@@ -33,6 +37,8 @@ I'm a passionate developer who loves building things that make life easier. Whet
 ---
 
 ### 📊 GitHub Stats
+
+![Snake animation](https://github.com/Fellarity/Fellarity/blob/output/github-contribution-grid-snake.svg)
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellarity&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellarity&layout=compact&theme=radical)
