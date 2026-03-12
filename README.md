@@ -30,9 +30,9 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 🌟 Featured Projects
 
+- **[campus-wallet-pro](https://github.com/Fellarity/campus-wallet-pro)**: A full-stack digital payment ecosystem for college campuses. 💸
 - **[pm-internship-matchmaker](https://github.com/Fellarity/pm-internship-matchmaker)**: An intelligent internship recommendation engine. (Hackathon Special! 🏆)
-- **[iiifl-trading-platform](https://github.com/Fellarity/iiifl-trading-platform)**: Building the future of trading, one line of code at a time. 📈
-- **[study-companion](https://github.com/Fellarity/study-companion)**: Helping you stay organized and ace your exams. 📚
+- **[iiifl-trading-arena](https://github.com/Fellarity/iiifl-trading-arena)**: A high-performance trading platform with real-time analytics. 📈
 
 ---
 
