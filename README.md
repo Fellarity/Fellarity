@@ -38,10 +38,16 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 📊 GitHub Stats
 
-![Snake animation](https://github.com/Fellarity/Fellarity/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Fellarity/Fellarity/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellarity&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellarity&layout=compact&theme=radical)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fellarity&show_icons=true&theme=tokyonight" alt="Ashutosh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellarity&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
