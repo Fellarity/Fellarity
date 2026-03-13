@@ -6,6 +6,12 @@
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=Fellarity&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-github-any-achievements.vercel.app/api?username=Fellarity&show_icons=true&theme=tokyonight" alt="GitHub Achievements" />
+</div>
+
 I'm a passionate developer who loves building things that make life easier. Whether it's a trading platform, a study companion, or an internship matchmaker, I'm always up for a challenge.
 
 ---
