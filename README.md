@@ -4,8 +4,6 @@
 
 ### 🚀 Software Developer | Problem Solver | Hackathon Enthusiast
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Fellarity&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
