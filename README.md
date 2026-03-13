@@ -80,3 +80,4 @@ I'm a passionate developer who loves building things that make life easier. Whet
 ---
 
 "Talk is cheap. Show me the code." - Linus Torvalds
+<!-- Shark hunt 1 -->
