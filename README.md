@@ -7,7 +7,7 @@
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-github-any-achievements.vercel.app/api?username=Fellarity&show_icons=true&theme=tokyonight" alt="GitHub Achievements" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=Fellarity&theme=tokyonight&size=110" alt="GitHub Achievements" />
 </div>
 
 I'm a passionate developer who loves building things that make life easier. Whether it's a trading platform, a study companion, or an internship matchmaker, I'm always up for a challenge.
