@@ -53,8 +53,20 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 📫 Let's Connect!
 
-- **Email**: [ashutoshgopale97@gmail.com](mailto:ashutoshgopale97@gmail.com)
-- **GitHub**: [@Fellarity](https://github.com/Fellarity)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ashutoshgopale/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/AshutoshGopale" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/ashutoshgopale/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ashutoshgopale97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
