@@ -28,6 +28,18 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### 🌟 Featured Projects
 
+> ⭐ **Star Project**
+>
+> ### 🤖 [ALICE — Adaptive Latent Inference & Continual Evolution](https://github.com/Fellarity/alice)
+> A **biologically-inspired AGI architecture** that runs in real-time on consumer hardware.
+> Built from scratch: Vision Transformer encoder · Active Inference cognition · Spiking Neural Network motor control · Continual learning with EWC · Desktop & webcam agency.
+>
+> `Python` `PyTorch` `SpikingJelly` `asyncio` · **104 tests passing** · Phase 5 complete
+
+---
+
+#### Other Projects
+
 - **[campus-wallet-pro](https://github.com/Fellarity/campus-wallet-pro)**: A full-stack digital payment ecosystem for college campuses. 💸
 - **[pm-internship-matchmaker](https://github.com/Fellarity/pm-internship-matchmaker)**: An intelligent internship recommendation engine. (Hackathon Special! 🏆)
 - **[iiifl-trading-arena](https://github.com/Fellarity/iiifl-trading-arena)**: A high-performance trading platform with real-time analytics. 📈
@@ -67,7 +79,7 @@ I'm a passionate developer who loves building things that make life easier. Whet
 
 ### ⚡ Fun Facts
 
-- 🧠 I'm currently learning **Advanced React Patterns** and **AI Integration**.
+- 🧠 I'm currently building **ALICE** — a biologically-inspired AGI from scratch (Active Inference + SNNs + ViT encoder).
 - 🛠️ I'm a firm believer that "if it's not broken, fix it until it is." (Wait, that's not right...)
 - 🎮 When I'm not coding, you'll probably find me playing video games or exploring new tech.
 
